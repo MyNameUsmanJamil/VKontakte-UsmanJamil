@@ -22,15 +22,7 @@ A modern Android app built using **Jetpack Compose** and latest Android developm
 - **Dependency Injection:** Hilt / Koin
 - **Networking:** Retrofit / Ktor
 - **Database:** Room / SharedPreferences / Remote-Location-DB
-- **Other Tools:** Coroutines, Flow, Coil, etc.
-
----
-
-## 📸 Screenshots
-
-| Home | Profile | Settings |
-|------|---------|----------|
-| ![](screenshots/home.png) | ![](screenshots/profile.png) | ![](screenshots/settings.png) |
+- **Other Tools:** Coroutines, Flow, Coil, etc
 
 ---
 
