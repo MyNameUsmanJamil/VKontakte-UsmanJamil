@@ -25,7 +25,7 @@ A modern Android app built using **Jetpack Compose** and latest Android developm
 - **Other Tools:** Coroutines, Flow, Coil, etc
 
 ---
-
+usman
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
